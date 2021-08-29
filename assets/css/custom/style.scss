@@ -1,0 +1,28 @@
+.kt-font-brand-custom {
+  width: 100%;
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .kt-body {
+    .kt-grid {
+      .kt-aside-custom {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: 0%;
+        height: fit-content;
+      }
+    }
+  }
+}
+
+@media (min-width: 1440px) {
+  .kt-body {
+    .kt-grid {
+      .kt-aside-custom {
+        top: 50%;
+        transform: translateY(-50%);
+        bottom: 0%;
+        height: fit-content;
+      }
+    }
+  }
+}
