@@ -2,6 +2,10 @@
   width: 100%;
 }
 
+.line-height-20 {
+  line-height: 20px !important;
+}
+
 .content {
   position: relative;
   width: 100%;
@@ -37,6 +41,12 @@
   }
   .content-image {
     width: 100%;
+  }
+
+  .content-img {
+    width: 100%;
+    height: 203px !important;
+    object-fit: cover;
   }
 
   .content-details {
